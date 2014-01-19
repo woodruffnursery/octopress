@@ -47,7 +47,7 @@ $footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($foo
 //
 
 html {
-  background: #DFD9B5 !important;
+  background: #fff !important;
 }
 xbody {
   > div {

@@ -1,0 +1,4 @@
+<p>
+  Copyright &copy; {{ site.time | date: "%Y" }} - <a href="http://christopherfield.co.uk">Chris Field</a> -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>

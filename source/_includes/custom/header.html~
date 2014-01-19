@@ -1,0 +1,7 @@
+<hgroup>
+  <a href="{{ root_url }}/"><img id="brand" src="{{ root_url }}/images/woodruff-name.png" height="100"></a>
+  {% if site.subtitle %}
+    <br/>
+    <h2>{{ site.subtitle }}</h2>
+  {% endif %}
+</hgroup>

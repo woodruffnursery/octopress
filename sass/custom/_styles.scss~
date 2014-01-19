@@ -30,7 +30,7 @@ body {
 
 #plantFairTable + table {
   a {
-    text-decoration: none;
+    text-decoradtion: none;
   }
   th {
     background-color: #bbb;
