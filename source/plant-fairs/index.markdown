@@ -15,7 +15,7 @@ footer: true
 
 Date            |Location                                 |Organiser
 ---------       |---------------------------------------  |---------
-9th February    |Marple Potato Day, Stockport             |Marple Allotment Society
+9th February    |[Marple Potato Day, Stockport](http://www.marpleallotments.zoomshare.com/)             |Marple Allotment Society
 16thFebruary    |Mold Potato Day, Wales                   |North Wales Plant Heritage
 26th March      | Conwy Seed Fair, Wales                  |[Conwy Beekeepers Association](http://www.conwybeekeepers.org.uk/)
 6th April       | Bramall Hall, Stockport                 |[Plant Hunters Fairs](http://www.planthuntersfairs.co.uk/Venues/bramall_hall.htm)
